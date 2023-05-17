@@ -2,7 +2,7 @@
 Reporting Script for The Aparavi Platform
 
 # Download Script
-wget https://github.com/nowakemc/AparaviReports/raw/main/AparaviReports-3.5.3.sh
+wget https://github.com/AparaviSoftware/ReportingTool/raw/main/AparaviReports-3.5.3.sh
 
 
 # Make Executable
