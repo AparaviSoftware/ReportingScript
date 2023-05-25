@@ -2,7 +2,6 @@
 Reporting Script for The Aparavi Platform
 
 # Download Script
-wget https://github.com/AparaviSoftware/ReportingTool/raw/main/AparaviReports-3.6.0.sh
 
 # Make Executable
 chmod +x AparaviReports-3.6.0.sh
